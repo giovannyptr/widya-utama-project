@@ -1,6 +1,6 @@
-#server
+# server
 
-#Project Setup
+# Project Setup
 
 
 
