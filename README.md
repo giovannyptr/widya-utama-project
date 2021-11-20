@@ -2,7 +2,7 @@
  ```https://widya-project.herokuapp.com/ ```
  
 ## Deploy Client (frontend) with firebase
-```https://project-widyautama.web.app/ ```
+```https://project-widyautama.web.app/login ```
 
 ### Only user that already have account can add new user, so please login first with :
 ``` email: giovanny@mail.com    password: password1 ```
