@@ -5,8 +5,7 @@
 ```https://project-widyautama.web.app/ ```
 
 ### Only user that already have account can add new user, so please login first with :
-``` email: giovanny@mail.com
-    password: password1 ```
+``` email: giovanny@mail.com    password: password1 ```
 
 # SERVER
 
